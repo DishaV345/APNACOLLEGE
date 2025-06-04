@@ -1,2 +1,2 @@
 # APNACOLLEGE
-this is my first college
+this is my first git repository
